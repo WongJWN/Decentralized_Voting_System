@@ -3,10 +3,10 @@
 Using bellow code to install all modules
 ```npm install```
 
-Using bellow code to compile samrt contract
+Using bellow code to compile smart contract
 ```npm hardhat node```
 
-on the another terminal
+on the other terminal
 ```npx hardhat run scripts/deploy.js --network localhost```
 
 Move the ```VotingSystem.json``` from ```/artifacts/contracts/VotingSystem.json``` to ```/src/context/```
