@@ -4,7 +4,7 @@ Using bellow code to install all modules
 ```npm install```
 
 Using bellow code to compile samrt contract
-```npm node```
+```npm hardhat node```
 
 on the another terminal
 ```npx hardhat run scripts/deploy.js --network localhost```
