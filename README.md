@@ -11,5 +11,5 @@ On the other terminal using this code to compile smart contract
 
 Move the ```VotingSystem.json``` from ```/artifacts/contracts/VotingSystem.json``` to ```/src/context/```
 
-Now you can run the code by using
+Now you can start using this website 
 ```npm start```
