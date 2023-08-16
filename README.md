@@ -1,6 +1,6 @@
 # Decentralized_Voting_System
 
-Using bellow code to install all modules
+Using this code to install all modules
 ```npm install```
 
 Using this code to compile smart contract
