@@ -4,7 +4,7 @@ install all modules
 ```npm install```
 
 open hardhat testing account
-```npm hardhat node```
+```npx hardhat node```
 
 compile smart contract
 ```npx hardhat run scripts/deploy.js --network localhost```
